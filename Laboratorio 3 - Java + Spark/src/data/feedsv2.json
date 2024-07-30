@@ -1,0 +1,172 @@
+[
+  {
+    "label": "p12pais",
+    "url": "https://www.pagina12.com.ar/rss/secciones/el-pais/notas",
+    "type": "xml"
+  },
+  {
+    "label": "p12eco",
+    "url": "https://www.pagina12.com.ar/rss/secciones/economia/notas",
+    "type": "xml"
+  },
+  {
+    "label": "lmgral",
+    "url": "https://lmdiario.com.ar/default/rss/general.xml",
+    "type": "xml"
+  },
+  {
+    "label": "lmnoti",
+    "url": "https://lmdiario.com.ar/default/rss/noticias.xml",
+    "type": "xml"
+  },
+  {
+    "label": "bbcworld",
+    "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "bbcbusiness",
+    "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "cnnworld",
+    "url": "http://rss.cnn.com/rss/edition_world.rss",
+    "type": "xml"
+  },
+  {
+    "label": "cnnbusiness",
+    "url": "http://rss.cnn.com/rss/money_latest.rss",
+    "type": "xml"
+  },
+  {
+    "label": "reutersworld",
+    "url": "http://feeds.reuters.com/Reuters/worldNews",
+    "type": "xml"
+  },
+  {
+    "label": "reutersbusiness",
+    "url": "http://feeds.reuters.com/reuters/businessNews",
+    "type": "xml"
+  },
+  {
+    "label": "nytworld",
+    "url": "http://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "type": "xml"
+  },
+  {
+    "label": "nyttech",
+    "url": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "type": "xml"
+  },
+  {
+    "label": "guardianworld",
+    "url": "https://www.theguardian.com/world/rss",
+    "type": "xml"
+  },
+  {
+    "label": "guardianbusiness",
+    "url": "https://www.theguardian.com/uk/business/rss",
+    "type": "xml"
+  },
+  {
+    "label": "aljazeeraworld",
+    "url": "http://www.aljazeera.com/xml/rss/all.xml",
+    "type": "xml"
+  },
+  {
+    "label": "aljazeerabusiness",
+    "url": "http://www.aljazeera.com/xml/rss/business.xml",
+    "type": "xml"
+  },
+  {
+    "label": "elmundomundo",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/mundo.xml",
+    "type": "xml"
+  },
+  {
+    "label": "elmundoeconomia",
+    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml",
+    "type": "xml"
+  },
+  {
+    "label": "elpaismundo",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mundo/rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "elpaistecnologia",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "clarinmundo",
+    "url": "https://www.clarin.com/rss/mundo/",
+    "type": "xml"
+  },
+  {
+    "label": "clarineconomia",
+    "url": "https://www.clarin.com/rss/economia/",
+    "type": "xml"
+  },
+  {
+    "label": "infobaeamerica",
+    "url": "https://www.infobae.com/america/america-rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "infobaetec",
+    "url": "https://www.infobae.com/feeds/tecno.xml",
+    "type": "xml"
+  },
+  {
+    "label": "lavanguardiainternacional",
+    "url": "https://www.lavanguardia.com/internacional/rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "lavanguardiaeconomia",
+    "url": "https://www.lavanguardia.com/economia/rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "lanacionmundo",
+    "url": "https://www.lanacion.com.ar/rss/tema/mundo",
+    "type": "xml"
+  },
+  {
+    "label": "lanacioneconomia",
+    "url": "https://www.lanacion.com.ar/rss/tema/economia",
+    "type": "xml"
+  },
+  {
+    "label": "forbesbusiness",
+    "url": "https://www.forbes.com/business/feed/",
+    "type": "xml"
+  },
+  {
+    "label": "techcrunchstartups",
+    "url": "http://feeds.feedburner.com/TechCrunch/startups",
+    "type": "xml"
+  },
+  {
+    "label": "engadget",
+    "url": "https://www.engadget.com/rss.xml",
+    "type": "xml"
+  },
+  {
+    "label": "mashable",
+    "url": "http://feeds.mashable.com/Mashable",
+    "type": "xml"
+  },
+  {
+    "label": "wired",
+    "url": "https://www.wired.com/feed/rss",
+    "type": "xml"
+  },
+  {
+    "label": "verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "type": "xml"
+  }
+]
